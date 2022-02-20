@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#box .img{
+    width: 100%;
+    
+}
+
+#all{
+    margin-top: 110px;
+}
+
+#card-header{
+    
+    text-align: center;
+}
+
